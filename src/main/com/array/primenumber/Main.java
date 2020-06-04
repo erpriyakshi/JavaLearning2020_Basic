@@ -1,6 +1,6 @@
-package com.array.array.primenumber;
+package com.array.primenumber;
 
-import com.array.array.print.PrintArray;
+import com.array.print.PrintArray;
 
 public class Main {
 

@@ -1,4 +1,4 @@
-package com.array.array.oddnumbers;
+package com.array.oddnumbers;
 
 public class OddNumbersFinder {
     public int[] printOddNumbers(int intArray[]) {

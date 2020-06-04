@@ -1,6 +1,6 @@
-package com.array.array.oddnumbers;
+package com.array.oddnumbers;
 
-import com.array.array.print.PrintArray;
+import com.array.print.PrintArray;
 
 public class Main {
     public static void main(String[] args) {

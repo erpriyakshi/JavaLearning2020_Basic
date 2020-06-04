@@ -1,4 +1,4 @@
-package com.array.array.print;
+package com.array.print;
 
 import java.util.Objects;
 import java.util.stream.Stream;

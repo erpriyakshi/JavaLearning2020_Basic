@@ -1,4 +1,4 @@
-package com.array.array.sum;
+package com.array.sum;
 
 public class Main {
 

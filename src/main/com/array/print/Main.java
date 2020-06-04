@@ -1,4 +1,4 @@
-package com.array.array.print;
+package com.array.print;
 
 public class Main {
     public static void main(String[] args) {

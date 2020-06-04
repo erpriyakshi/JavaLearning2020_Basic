@@ -1,4 +1,4 @@
-package com.array.array.primenumber;
+package com.array.primenumber;
 
 import com.priyakshi.controlstatement.challenge.primenumber.PrimeNumberCalculator;
 
