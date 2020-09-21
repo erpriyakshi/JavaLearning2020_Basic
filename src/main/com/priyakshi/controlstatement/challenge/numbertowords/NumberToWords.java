@@ -1,5 +1,7 @@
 package com.priyakshi.controlstatement.challenge.numbertowords;
 
+import java.util.UUID;
+
 public class NumberToWords {
 
     public String convertNumberintoWords(int number) {
@@ -20,6 +22,7 @@ public class NumberToWords {
     }
 
     private String getWordForADigit(int digit) {
+        UUID.randomUUID().toString().replace("-", "");
         switch (digit) {
             case 1:
                 return "One";
